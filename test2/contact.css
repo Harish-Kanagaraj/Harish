@@ -1,0 +1,37 @@
+.bg{
+    position:relative;
+    border:1px solid black;
+    height:100vh;
+    width:100%;
+}
+.img{
+    position: absolute;
+    height:100vh;
+    width:100%;
+}
+.title{
+    position:absolute;
+    color:white;
+    font-size:20px ;
+    left:40%;
+}
+.name{
+    width:300px;
+    height:30px;
+}
+.namee{
+    width:300px;
+    height:70px;
+}
+.form{
+    position:absolute;
+    margin-top:120px;
+    margin-left:450px;
+    height:400px;
+    width:500px;
+    color:white;
+   /* border:1px solid white;*/
+}
+.submit{
+    margin-left:120px;
+}
